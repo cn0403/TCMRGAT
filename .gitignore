@@ -1,0 +1,17 @@
+﻿__pycache__
+/processed_data
+/pretrain_model
+hgandds_model*
+/hgan_herb
+*.pickle
+generate_adjust_matrix
+generate_labels
+generate_node_features
+/atten
+hgan_herb_rgcn
+mlp
+gan_loss.png
+/log
+hgan_herb_model
+process_data.py
+*.csv
